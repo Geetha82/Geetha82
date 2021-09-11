@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Geetha82
+- 👋 Hi, I’m Geetha
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Tableau,SQl and Python
 - 💞️ I’m looking to collaborate on Tableau projects
